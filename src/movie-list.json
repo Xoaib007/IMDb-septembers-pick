@@ -1,0 +1,67 @@
+[
+    {
+        "id": "001",
+        "name": "Wu-Tang: An American Saga",
+        "image": "./Images/001.png",
+        "Release date":"Wednesday, Sept. 4",
+        "Runtime":49
+    },
+    {
+        "id": "002",
+        "name": "It Chapter Two",
+        "image": "./Images/002.png",
+        "Release date":"Friday, Sept. 6",
+        "Runtime":169
+    },
+    {
+        "id": "003",
+        "name": "The Spy",
+        "image": "./Images/003.png",
+        "Release date":"Friday, Sept. 6",
+        "Runtime":53
+    },
+    {
+        "id": "004",
+        "name": "Downton Abbey",
+        "image": "./Images/004.png",
+        "Release date":"Friday, Sept. 20",
+        "Runtime":122
+    },
+    {
+        "id": "005",
+        "name": "Criminal",
+        "image": "./Images/005.png",
+        "Release date":"Sept. 20",
+        "Runtime":43
+    },
+
+    {
+        "id": "006",
+        "name": "Ad Astra",
+        "image": "./Images/006.png",
+        "Release date":"Friday, Sept. 20",
+        "Runtime":163
+    },
+    {
+        "id": "007",
+        "name": "Survivor",
+        "image": "./Images/007.png",
+        "Release date":" Wednesday, Sept. 25",
+        "Runtime":60
+    },
+    {
+        "id": "008",
+        "name": "Emergence",
+        "image": "./Images/008.png",
+        "Release date":"Tuesday, Sept. 24",
+        "Runtime":43
+    },
+    {
+        "id": "009",
+        "name": "The Good Place",
+        "image": "./Images/009.png",
+        "Release date":"Thursday, Sept. 26",
+        "Runtime":22
+    }
+    
+]

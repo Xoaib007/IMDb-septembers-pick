@@ -1,0 +1,18 @@
+.header img{
+    margin-top: 20px;
+    width: 118px;
+    height: 54px;
+}
+.header h1{
+    margin-top: 23px;
+    margin-left: 15px;
+    font-size: 34px;
+}
+.header{
+    height: 100px;
+    display: flex;
+    padding: 20px;
+    padding-left: 40px;
+    background-color: black;
+    color: aliceblue;
+}
