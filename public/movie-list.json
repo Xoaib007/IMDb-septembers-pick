@@ -1,0 +1,67 @@
+[
+    {
+        "id": "001",
+        "name": "Wu-Tang: An American Saga",
+        "image": "https://i.ibb.co/mR6FH3Z/001.png",
+        "Release":"Wednesday, Sept. 4",
+        "Runtime":49
+    },
+    {
+        "id": "002",
+        "name": "It Chapter Two",
+        "image": "https://i.ibb.co/9Wjsw2g/002.png",
+        "Release":"Friday, Sept. 6",
+        "Runtime":169
+    },
+    {
+        "id": "003",
+        "name": "The Spy",
+        "image": "https://i.ibb.co/wstc2hY/003.png",
+        "Release":"Friday, Sept. 6",
+        "Runtime":53
+    },
+    {
+        "id": "004",
+        "name": "Downton Abbey",
+        "image": "https://i.ibb.co/58CFBVh/004.png",
+        "Release":"Friday, Sept. 20",
+        "Runtime":122
+    },
+    {
+        "id": "005",
+        "name": "Criminal",
+        "image": "https://i.ibb.co/Qfwf1k2/005.png",
+        "Release":"Sept. 20",
+        "Runtime":43
+    },
+
+    {
+        "id": "006",
+        "name": "Ad Astra",
+        "image": "https://i.ibb.co/hCY3cft/006.png",
+        "Release":"Friday, Sept. 20",
+        "Runtime":163
+    },
+    {
+        "id": "007",
+        "name": "Survivor",
+        "image": "https://i.ibb.co/fNMNDHM/007.png",
+        "Release":" Wednesday, Sept. 25",
+        "Runtime":60
+    },
+    {
+        "id": "008",
+        "name": "Emergence",
+        "image": "https://i.ibb.co/RQ9Ppmk/008.png",
+        "Release":"Tuesday, Sept. 24",
+        "Runtime":43
+    },
+    {
+        "id": "009",
+        "name": "The Good Place",
+        "image": "https://i.ibb.co/7jpkxLx/009.png",
+        "Release":"Thursday, Sept. 26",
+        "Runtime":22
+    }
+    
+]
