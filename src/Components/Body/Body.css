@@ -8,3 +8,12 @@
     grid-template-columns: repeat(3 ,1fr);
     gap: 45px;
 }
+.watchlist-container{
+    color:  #f3ce13;
+    background-color: rgb(46, 46, 46);
+}
+@media screen and (max-width:576px) {
+    .movies-container{
+        grid-template-columns: repeat(1 , 2fr);
+    }
+}
