@@ -1,7 +1,33 @@
-.movies{
-    width: 225px
-};
-.movies img{
-    width: 22px;
-    height: 15px;
-};
+.movie{
+    width: 300px;
+    height: 500px;
+    border: 1px solid black;
+    display: block;
+}
+.image{
+    width: 300px;
+    height: 200px;
+}
+.movies-info{
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 21px;
+    letter-spacing: 0.0015em;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    margin-left: 14px;
+    margin-right: 14px;
+    text-align: left;
+}
+.add-movie-btn{
+    background-color: black;
+    color: #f3ce13;
+    font-weight: 600;
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.add-movie-btn:hover{
+    background-color: #f3ce13;
+    color: black;
+}

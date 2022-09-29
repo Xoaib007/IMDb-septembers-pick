@@ -4,11 +4,22 @@ import './Movie.css';
 const Movie = (props) => {
     const {name, image, Release, Runtime} = props.movie;
     return (
-        <div className='movies'>
-            <img src={image} alt=''/>
-            <h1>{name}</h1>
-            <h1>{Release}</h1>
-            <h1>{Runtime}</h1>
+        <div>
+        <div className='movie'>
+            <div>
+                <img className='image' src={image} alt=''></img>
+            </div>
+            
+            <div className='movies-info'>
+                <p className='movie-name'>{name}</p>
+                <p className='movie-date'>Releasing {Release}</p>
+                <p className='movie-runtime'>Runtime: {Runtime} min</p>
+            </div>
+            
+            <button className='add-movie-btn'>
+                <p>Add to watchlist</p>
+            </button>
+        </div>
         </div>
     );
 };
