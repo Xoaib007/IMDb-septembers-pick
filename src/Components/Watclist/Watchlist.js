@@ -11,6 +11,8 @@ const Watchlist = (props) => {
     for(const movie of watchlist){
         total= total + movie.Runtime;
     };
+    console.log(watchlist)
+    localStorage.setItem('number', numbers);
     
     return (
         <div className='watchlist'>
@@ -32,7 +34,7 @@ const Watchlist = (props) => {
                     <button onClick={()=> setNumbers(9)}>{target.c}</button>
                     <button onClick={()=> setNumbers(0)}>{target.d}</button>
                 </ul>
-                <h3>{numbers} movie will I watch this month</h3>
+                <h3>{localStorage.getItem('number')} movie will I watch this month</h3>
             </div>
         </div>
     );
