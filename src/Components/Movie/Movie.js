@@ -6,6 +6,9 @@ const Movie = (props) => {
     return (
         <div className='movies'>
             <img src={image} alt=''/>
+            <h1>{name}</h1>
+            <h1>{Release}</h1>
+            <h1>{Runtime}</h1>
         </div>
     );
 };
