@@ -1,8 +1,30 @@
 .watchlist{
+    position: sticky;
+    top: 0;
     text-align: left;
     line-height: 80%;
 }
 .name{
+    background-color: rgb(72, 69, 69);
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+}
+.watchlist button{
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.time-spent{
+    background-color: rgb(72, 69, 69);
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+}
+.target{
     background-color: rgb(72, 69, 69);
     border-radius: 8px;
     padding: 10px;

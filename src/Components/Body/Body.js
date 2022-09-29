@@ -35,9 +35,8 @@ const Body = () => {
                     }
                 </div>
                 <div className='watchlist-container'>
-                    <Watchlist></Watchlist>
-                    {/* <h1>watchlish</h1>
-                    <p>selected movie {watchlist.length}</p> */}
+                    <Watchlist watchlist={watchlist}></Watchlist>
+                    
                 </div>
             </div>
         </div>
